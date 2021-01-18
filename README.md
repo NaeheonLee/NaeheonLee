@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 🌱 
  
 ### language i can use
- - 💬  C, C++, Java, Kotlin, JavaScript, Python
+ - 💬  C, C++, Java, Python
 
 ### interesting field
  - 😄 database, sever develop, data management, AI, Machine Learning
