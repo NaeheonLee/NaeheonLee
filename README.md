@@ -1,4 +1,4 @@
-### Hi there 👋
+### NaeheonLee's coding progress👋
 
 <!--
 **NaeheonLee/NaeheonLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### sja3410_coding story 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NaeheonLee&show_icons=true)
 ![tonyrox22's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tonyrox22)
 
@@ -36,6 +35,8 @@ Here are some ideas to get you started:
  - 🌱 data structure mentor
  - 🌱 machine learning 
 
+#### 2020.03~2021.02 goals & activities
+- 🌱 
  
 ### language i can use
  - 💬  C, C++, Java, Kotlin, JavaScript, Python
