@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NaeheonLee&show_icons=true)
+<!--
 ![tonyrox22's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tonyrox22)
 
-### Still working on progress
+### Still working on progress...
 
 <!--
 #### 2020.08~2020.12 goals & activities
