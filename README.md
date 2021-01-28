@@ -3,6 +3,9 @@
 <!--
 **NaeheonLee/NaeheonLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,7 +21,9 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NaeheonLee&show_icons=true)
 ![tonyrox22's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tonyrox22)
 
+### Still working on progress
 
+<!--
 #### 2020.08~2020.12 goals & activities
  - 🌱 database(SQL) study
  - 🌱 Kotlin study 
@@ -27,7 +32,8 @@ Here are some ideas to get you started:
  - 🌱 C programing mentor
  - 🌱 AWS study
  - 🌱 Docker study
- 
+
+<!--
 #### 2020.12~2020.3 goals & activities
  - 🌱 SQLD license
  - 🌱 AWS study group & license
@@ -35,13 +41,17 @@ Here are some ideas to get you started:
  - 🌱 data structure mentor
  - 🌱 machine learning 
 
+<!--
 #### 2020.03~2021.02 goals & activities
 - 🌱 
- 
+
+<!--
 ### language i can use
  - 💬  C, C++, Java, Python
 
+<!--
 ### interesting field
  - 😄 database, sever develop, data management, AI, Machine Learning
- 
+
+<!--
 - 🔭🌱👯🤔💬📫😄⚡ 
