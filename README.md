@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My portfolio : https://naeheonlee.github.io/
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NaeheonLee&show_icons=true)
 
 ### Still working on progress..
